@@ -1,3 +1,6 @@
+## [1.0.3] - 21 February 2025
+ - Remove package folder
+
 ## [1.0.2] - 21 February 2025
  - Remove problem files
 
