@@ -1,5 +1,3 @@
-# RomanVitolo-R-V-ObjectPoolingSystem
-
 # Unity Object Pooling System
 
 ## Overview
