@@ -1,1 +1,3 @@
-# RomanVitolo-R-V-ObjectPoolingSystem
+Object Pooling System
+
+Illustrates how to work with this pattern

@@ -1,3 +1,6 @@
+## [1.0.5] - 21 February 2025
+ - Remove Readme issues
+
 ## [1.0.4] - 21 February 2025
  - Added new tests and general project cleanup
 
