@@ -1,6 +1,6 @@
 {
-  "name": "com.vr.object-pooling",
-  "version": "1.0.0",
+  "name": "com.vyr.objectpooling",
+  "version": "1.0.1",
   "displayName": "Pooling System",
   "description": "This is an demo package for the Object Pooling System",
   "unity": "6000.0.23f1",
