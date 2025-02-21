@@ -1,3 +1,6 @@
+## [1.0.4] - 21 February 2025
+ - Added new tests and general project cleanup
+
 ## [1.0.3] - 21 February 2025
  - Remove package folder
 

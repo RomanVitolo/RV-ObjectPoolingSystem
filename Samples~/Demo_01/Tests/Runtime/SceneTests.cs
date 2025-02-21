@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.TestTools;
 
-namespace PoolingSystem.Tests.Runtime
+namespace PoolingSystem.Samples.Demo_01.Tests.Runtime
 {
     public class SceneTests
     {
