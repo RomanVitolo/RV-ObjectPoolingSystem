@@ -4,7 +4,7 @@
   "displayName": "Pooling System",
   "description": "This is an demo package for the Object Pooling System",
   "unity": "6000.0",  
-  "documentationUrl": "https://example.com/",  
+  "documentationUrl": "https://github.com/RomanVitolo/RV-ObjectPoolingSystem/tree/development",  
   "dependencies": {
     "com.unity.test-framework": "1.4.6"    
   },

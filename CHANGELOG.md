@@ -1,4 +1,7 @@
 ## [1.0.6] - 21 February 2025
+ - Add documentation + Readme in UPM branch
+
+## [1.0.6] - 21 February 2025
  - Remove repository Readme from the UPM
 
 ## [1.0.5] - 21 February 2025
