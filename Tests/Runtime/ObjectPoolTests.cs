@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using System.Collections;
 using NUnit.Framework;
 using PoolingSystem.Runtime;
@@ -71,3 +72,4 @@ namespace PoolingSystem.Tests.Runtime
         }
     }
 }
+#endif

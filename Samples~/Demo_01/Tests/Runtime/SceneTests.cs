@@ -1,3 +1,4 @@
+#if UNITY_EDITOR
 using System.Collections;
 using NUnit.Framework;
 using PoolingSystem.Samples.Demo_01.Scripts.Runtime;
@@ -63,3 +64,4 @@ namespace PoolingSystem.Samples.Demo_01.Tests.Runtime
         }
     }
 }
+#endif

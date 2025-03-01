@@ -1,3 +1,6 @@
+## [1.0.7] - 03 March 2025
+ - Add a refactor that did not allow to build projects
+
 ## [1.0.6] - 21 February 2025
  - Add documentation + Readme in UPM branch
 
